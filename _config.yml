@@ -1,20 +1,4 @@
-name: tricks
-favicon: null
-layout_spectrum: 0.020937763852998614
 typography_spectrum: 0.5339259828906506
-title: tricks & tips
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6448425822891295
   saturation: 0.562671777792275
   rhythmicContrast: 0.07868238352239132
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.020937763852998614
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tricks
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: tricks & tips
 purpose: []
