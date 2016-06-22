@@ -1,13 +1,13 @@
 ---
 description: 'You are in Beta at The Grid, right?'
-dateModified: '2016-06-22T00:31:19.981Z'
-datePublished: '2016-06-22T00:37:28.210Z'
+dateModified: '2016-06-22T02:48:16.115Z'
+datePublished: '2016-06-22T02:48:26.589Z'
 title: 'Tip #1 Start here!'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d303f77d-ebe6-4fbc-b8de-0bbbab333b85.png
-starred: false
 sourcePath: _posts/2016-06-22-tip-1-start-here.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
