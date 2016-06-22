@@ -16,10 +16,10 @@ opengraph:
   appId: null
 layout_spectrum: 0.020937763852998614
 analytics:
-  google: null
+  google: UA-79726130-1
   facebook: null
   twitter: null
-name: tricks
+name: tips &amp; tricks
 cta:
   domain: null
   bucket: null
