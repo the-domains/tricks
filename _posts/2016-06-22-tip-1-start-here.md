@@ -1,7 +1,7 @@
 ---
 description: 'You are in Beta at The Grid, right?'
-dateModified: '2016-06-22T02:48:16.115Z'
-datePublished: '2016-06-22T02:48:26.589Z'
+dateModified: '2016-06-22T02:48:28.064Z'
+datePublished: '2016-06-22T02:52:02.798Z'
 title: 'Tip #1 Start here!'
 author: []
 isBasedOnUrl: >-
