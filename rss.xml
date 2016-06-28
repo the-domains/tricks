@@ -4,7 +4,7 @@
         <description><![CDATA[tricks & tips]]></description>
         <link>https://thegrid.ai/tricks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 18:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 18:29:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tricks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#1 Get the newest version!]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d303f77d-ebe6-4fbc-b8de-0bbbab333b85.png</link>
             <guid isPermaLink="false">38f54bb1-def5-4a4a-a184-e00c2e05c05d</guid>
             <pubDate>Tue, 28 Jun 2016 18:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#1 Get the new version]]></title>
-            <description><![CDATA[<article><h1>#1 Get the new version</h1><p>You are in Beta at The Grid, right?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db31a931-c1e0-4b44-b683-2c532171245f.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/db31a931-c1e0-4b44-b683-2c532171245f.png</link>
-            <guid isPermaLink="false">848780ec-15c1-485d-86a7-95c0e5bc08d9</guid>
-            <pubDate>Tue, 28 Jun 2016 17:30:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
