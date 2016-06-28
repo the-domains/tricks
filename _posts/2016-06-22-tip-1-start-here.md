@@ -1,18 +1,22 @@
 ---
-description: >-
-  You are in Beta at The Grid, right? Than make sure you know of the latest
-  version of The Grid’s control panel before you do anything else.
-dateModified: '2016-06-28T17:24:37.788Z'
-datePublished: '2016-06-28T18:27:41.758Z'
-title: '#1 Get the newest version!'
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d303f77d-ebe6-4fbc-b8de-0bbbab333b85.png
-sourcePath: _posts/2016-06-22-tip-1-start-here.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d303f77d-ebe6-4fbc-b8de-0bbbab333b85.png
+inLanguage: null
+keywords: []
+description: >-
+  You are in Beta at The Grid, right? Than make sure you know of the latest
+  version of The Grid’s control panel before you do anything else.
+datePublished: '2016-06-28T18:30:14.194Z'
+dateModified: '2016-06-28T18:27:49.724Z'
+title: '#1 Get the newest version!'
+author: []
+sourcePath: _posts/2016-06-22-tip-1-start-here.md
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
